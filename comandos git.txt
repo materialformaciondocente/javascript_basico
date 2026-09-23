@@ -8,8 +8,8 @@ git push
 git pull
 git status
 
-git init "es para inicializar un repositorio local".
-git Branch -M main "sirve para renombrar la rama master por main".
+git init "es para inicializar un repositorio local". (Repositorios Nuevos).
+git Branch -M main "sirve para renombrar la rama master por main". (Repositorios Nuevos).
 git add . "Este comando sirve para agregar todos los archivos".
 git commit -m "firt commit" (Este comando sirve para nombrar la versión de subida)
 git push "Sube los cambios al repositorio en la web o nube".
@@ -17,7 +17,9 @@ git pull "Jala los cambios del repositorio web"
 git status "Comprueba si hay cambios o el estado de los archivos".
 
 Configuración del usuario local git
-git config --local user.name "su nombre"
-git config --local user.email "su correo electronico registrado en github"
+git config --local user.name "su nombre" (Repositorios Nuevos).
+git config --local user.email "su correo electronico registrado en github" (Repositorios Nuevos).
 
 (Recuerden abrir el "Administrador de credenciales" seleccionar "Credenciales de Windows" y eliminar cualquier credencial relacionada con git o github).
+
+git clone + URL (Clona o recupera repositorios en cualquier lugar o equipo de cómputo donde lo clone).
